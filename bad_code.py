@@ -17,7 +17,7 @@ def duplicate_code_1():
     print("Processing data")
     print("Processing data")
     print("Processing data")
-    print("Processing data1")
+    print("Processing ")
     result = []
     for i in range(10):
         result.append(i * 2)
